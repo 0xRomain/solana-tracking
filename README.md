@@ -2,5 +2,5 @@
 
 ## TopWallets 
 
-Ticket: #4683
-URL: https://www.topwallets.ai
+- Ticket: #4683
+- URL: https://www.topwallets.ai
